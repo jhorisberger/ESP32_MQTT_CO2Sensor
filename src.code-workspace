@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "MQTT_ASYNC_SSL_Test",
+			"path": "C:\\Users\\Jürg\\Documents\\PlatformIO\\Projects\\MQTT_ASYNC_SSL_Test"
 		}
 	],
 	"settings": {
